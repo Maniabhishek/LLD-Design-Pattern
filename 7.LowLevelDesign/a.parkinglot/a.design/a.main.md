@@ -35,7 +35,6 @@
 - clock skew: system time validation
 - slot state mismatch: periodic reconcilation
 
-> 
 
 #### step 2: lets follow the steps we are starting with *identify core entities*
 - core entities
