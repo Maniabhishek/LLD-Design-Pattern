@@ -1,7 +1,7 @@
 Cost and time are two of the most valuable metrics when developing any software product. Less time in development means entering the market earlier than competitors. Lower development costs mean more money is left for marketing and a broader reach to potential customers.
 
 ## Code Reuse
-- Code reuse is one of the most common ways to reduce devel- opment costs. The intent is pretty obvious: instead of develop- ing something over and over from scratch, why don’t we reuse existing code in new projects?
+- Code reuse is one of the most common ways to reduce development costs. The intent is pretty obvious: instead of develop- ing something over and over from scratch, why don’t we reuse existing code in new projects?
 - The idea looks great on paper, but it turns out that making existing code work in a new context usually takes extra effort. Tight coupling between components, dependencies on con- crete classes instead of interfaces, hardcoded operations—all of this reduces flexibility of the code and makes it harder to reuse it
 - Using design patterns is one way to increase flexibility of software components and make them easier to reuse. However, this sometimes comes at the price of making the components more complicated.
 
