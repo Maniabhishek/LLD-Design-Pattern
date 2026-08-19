@@ -39,7 +39,9 @@
 #### step 2: lets follow the steps we are starting with *identify core entities*
 - core entities
 <img width="400" height="564" alt="image" src="https://github.com/user-attachments/assets/dfc41abd-246f-4279-8320-b24af283cdb7" />
+
 - some other entities
+
 <img width="360" height="564" alt="image" src="https://github.com/user-attachments/assets/7508d425-5b3d-4641-b0c2-bce93ff4545b" />
 
 #### Step 3: Discuss interaction flow
