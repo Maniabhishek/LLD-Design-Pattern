@@ -283,5 +283,5 @@ Step 7: Handle Edge Cases, Edge Case Solutions
 - Formatting: Use a template/pattern approach for message formatting and validate patterns up-front.
 - Configuration: Apply configuration changes atomically (e.g., swap config object references) and validate before swap to avoid inconsistent state.
 
-> Interview Tip: When explaining edge-case handling, state trade-offs (e.g., fail-open vs fail-closed, sync vs async write) and why you chose a particular fallback — interviewers value trade-off awareness as much as the solution itself.
+> Interview Tip : When explaining edge-case handling, state trade-offs (e.g., fail-open vs fail-closed, sync vs async write) and why you chose a particular fallback — interviewers value trade-off awareness as much as the solution itself.
 
