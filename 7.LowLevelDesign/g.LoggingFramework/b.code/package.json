@@ -1,0 +1,12 @@
+{
+  "devDependencies": {
+    "@types/node": "^26.5.0",
+    "typescript": "^7.0.2"
+  },
+  "scripts": {
+    "test": "jest",
+    "build": "npx tsc",
+    "start": "node dist/main"
+  },
+  "type": "module"
+}
